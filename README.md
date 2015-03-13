@@ -1,1 +1,1 @@
-# training-samples-quizzes
+# Strongloop Training Quizzes & Sample Code

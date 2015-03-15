@@ -1,18 +1,14 @@
-# Day 2 Quiz 7
+# Day 2 Quiz 7 - RESTful APIs
 
-**1.**
-
-YOUR ANSWER:
-
-**2.**
+**1. What are http verbs and what are they used for?**
 
 YOUR ANSWER:
 
-**3.**
+**2. What are the most common http verbs?**
 
 YOUR ANSWER:
 
-**4.**
+**3. When designing API end points, what are some of the practices in naming, design, and deployment implementation?**
 
 YOUR ANSWER:
 

@@ -1,18 +1,18 @@
-# Day 2 Quiz 4
+# Day 2 Quiz 4 - Data Sources
 
-**1.**
-
-YOUR ANSWER:
-
-**2.**
+**1. What are some of the popular relational databases?**
 
 YOUR ANSWER:
 
-**3.**
+**2. What is a key/value database and what are some of the specific features that it provides? Name at least 1 key feature.**
 
 YOUR ANSWER:
 
-**4.**
+**3. What is a graph database and what are some of the specific features that it provides? Name at least 1 key feature.**
+
+YOUR ANSWER:
+
+**4. What is a time series database and what are some of the specific features that it provides? Name at least 1 key feature.**
 
 YOUR ANSWER:
 

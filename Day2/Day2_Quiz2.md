@@ -1,18 +1,18 @@
-Day 2 Quiz 2
+# Day 2 Quiz 2
 
-1.
-
-YOUR ANSWER:
-
-2.
+**1.**
 
 YOUR ANSWER:
 
-3.
+**2.**
 
 YOUR ANSWER:
 
-4.
+**3.**
+
+YOUR ANSWER:
+
+**4.**
 
 YOUR ANSWER:
 

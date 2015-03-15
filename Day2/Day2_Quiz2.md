@@ -1,6 +1,6 @@
 # Day 2 Quiz 2
 
-**1.**
+**1. **
 
 YOUR ANSWER:
 

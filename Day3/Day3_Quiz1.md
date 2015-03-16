@@ -1,18 +1,18 @@
-Day 3 Quiz 1
+# Day 3 Quiz 1
 
-1.
-
-YOUR ANSWER:
-
-2.
+**1. **
 
 YOUR ANSWER:
 
-3.
+**2.**
 
 YOUR ANSWER:
 
-4.
+**3.**
+
+YOUR ANSWER:
+
+**4.**
 
 YOUR ANSWER:
 

@@ -1,4 +1,4 @@
-echo "commiting $0"
+echo "commiting $1"
 git add $0 
 git commit -m "$0 Answer"
 git push  https://github.com/srikns/training-quizzes.git srikant
